@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed Application 
 
 [Book Search Engine](https://ancient-eyrie-50661.herokuapp.com/)<br />
-<iframe src='//gifs.com/embed/book-search-83gAzr' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![image](https://j.gifs.com/oZmKnL.gif)
 <br />
 
 
