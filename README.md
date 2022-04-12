@@ -22,7 +22,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Deployed Application 
 
 [Book Search Engine](https://ancient-eyrie-50661.herokuapp.com/)<br />
-![Image](https://drive.google.com/file/d/1ulXTPnqIu9i_whqLD5oaTCRRfE35CMmY/view)<br />
+![Image]<iframe src="https://drive.google.com/file/d/1sSgvrjl6GLpRomZ2yDlifFDK_ZZ8-0m5/preview" width="640" height="480"></iframe>
+<br />
 
 
 ## Usage
